@@ -10,7 +10,7 @@
       "default_icon": "logo.png"
   },
   "content_scripts": [{
-    "matches": ["http://*/*"],
+    "matches": ["http://*/*", "https://*/*"],
     "css": ["style.css"]
   }],
   "icons": {
