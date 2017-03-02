@@ -1,0 +1,21 @@
+{
+  "name": "Pixl Purrfct",
+  "version": "0.1",
+  "manifest_version":2,
+  "description": "Ditch stupid interpolation of images, zoom with proper pixel purrfect scaling!",
+  "browser_action": {
+
+  },
+  "browser_action": {
+      "default_icon": "logo.png"
+  },
+  "content_scripts": [{
+    "matches": ["http://*/*"],
+    "css": ["style.css"]
+  }],
+  "icons": {
+    "16": "logo.png",
+    "48": "logo.png",
+    "128": "logo.png"
+  }
+}
