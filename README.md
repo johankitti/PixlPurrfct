@@ -1,5 +1,5 @@
 # PixlPurrfct
-Chrome extension ditching interpolation in image scaling. Its gonna be pixel puuuurrfect!
+Chrome extension ditching interpolation on image scaling. Its gonna be pixel puuuurrfect!
 
 Chrome web store: http://bit.ly/2m2eDni
 
